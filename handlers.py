@@ -53,7 +53,8 @@ async def employees(msg: Message):
         InlineKeyboardButton("Отряд 7", callback_data="empl@7"),
         InlineKeyboardButton("Отряд 8", callback_data="empl@8"),
         InlineKeyboardButton("Медиацентр", callback_data="empl@9"),
-        InlineKeyboardButton("Служба \"Рассвет\"", callback_data="empl@10")
+        InlineKeyboardButton("Служба \"Рассвет\"", callback_data="empl@10"),
+        InlineKeyboardButton("Тех. служба", callback_data="empl@11")
     )
     await bot.send_message(
         chat_id=msg.from_user.id,

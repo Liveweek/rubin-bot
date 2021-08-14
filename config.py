@@ -99,7 +99,7 @@ employees_list = [
         'employees': [
             {
                 'name': 'Ваньков Дарви',
-                'image_id': 'AgACAgIAAxkBAANmYRRHyinARbby9A_qMflNRJkSuk0AAq62MRtCkKFIi0RQIbxClKcBAAMCAANzAAMgBA'
+                'image_id': 'AgACAgIAAxkBAAICK2EX2nv5oTQF7jvQQ4B2YWwKnaRWAALVtTEb_fvBSFE0oRL6D-DWAQADAgADcwADIAQ'
             },
             {
                 'name': 'Шацкова Валерия',
@@ -127,7 +127,7 @@ employees_list = [
         'employees': [
             {
                 'name': 'Черняева Екатерина',
-                'image_id': 'AgACAgIAAxkBAANsYRRMMQRyh015nIGRuu7JDE9fSvwAArO2MRtCkKFIsrJQsj4ZhJIBAAMCAANzAAMgBA'
+                'image_id': 'AgACAgIAAxkBAAICLWEX2vMOofEZpo804PqOD0V5D8FRAALatTEb_fvBSBMmlfykQ0YgAQADAgADcwADIAQ'
             },
             {
                 'name': 'Афонина Арина',
@@ -135,11 +135,11 @@ employees_list = [
             },
             {
                 'name': 'Косухина Мария',
-                'image_id': 'AgACAgIAAxkBAANwYRRNlfKyGYNF8nTNmBEL6UovIX0AArW2MRtCkKFILmlj7FHyiG8BAAMCAANzAAMgBA'
+                'image_id': 'AgACAgIAAxkBAAICL2EX2x0C6Oz2EXPybBli1u_uw2T_AALbtTEb_fvBSEWaRz77jHodAQADAgADcwADIAQ'
             },
             {
                 'name': 'Шмелева Анастасия',
-                'image_id': 'AgACAgIAAxkBAANyYRRN_d-tGQfHsP3P4CiSiXHheZkAAre2MRtCkKFIKz118tNlgpoBAAMCAANzAAMgBA'
+                'image_id': 'AgACAgIAAxkBAAICMWEX21E6DOXbBztFBn6fdr3cayGOAALctTEb_fvBSAT8zrz-H9EMAQADAgADcwADIAQ'
             },
             {
                 'name': 'Романова Елизавета',

@@ -131,7 +131,7 @@ async def show_employee(call: CallbackQuery):
     empl_data = config.employees_list[empl_id - 1]
     formated_text = f"<b>{empl_data['group_name']}</b>\n" \
                     f"Место положение: <b>{empl_data['place']}</b>\n\n" \
-                    f"Коммиссары: \n"
+                    f"Комиссары: \n"
 
     media = []
     for empl in empl_data['employees']:

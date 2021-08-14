@@ -14,11 +14,11 @@ employees_list = [
         'place': 'Беседка около 1 Корпуса',
         'employees' : [
             {
-                'name': 'Сергей Бухер',
-                'image_id': 'AgACAgIAAxkBAANMYRQ2PiPYO7XbDpWiBCNXG7UdyWkAApq2MRtCkKFIvCdv6iG6WDwBAAMCAANzAAMgBA'
+                'name': 'Бухер Сергей',
+                'image_id': 'AgACAgIAAxkBAAICAAFhF6g-tQda0R7B4LJQJWdvYcj50QAChbUxG_37uUi3H1duXz6FQgEAAwIAA3MAAyAE'
             },
             {
-                'name': 'Ирина Бондарева',
+                'name': 'Бондарева Ирина',
                 'image_id': 'AgACAgIAAxkBAANOYRQ4d0TyXTLfuE7-1mwb2EYKVzwAApy2MRtCkKFItutOgufAXgkBAAMCAANzAAMgBA'
             }
         ]
@@ -183,14 +183,14 @@ employees_list = [
             },
             {
                 'name': 'Рюмин Кирилл',
-                'image_id': 'AgACAgIAAxkBAAN-YRRU6E8GzyzIBbp_UWsfI2myBkoAAr22MRtCkKFINmOYydRtsDMBAAMCAANzAAMgBA'
+                'image_id': 'AgACAgIAAxkBAAIB_mEXpknVfsQ0mLhk90SS4koGlq-CAAKAtTEb_fu5SPh3ymYFvLOOAQADAgADcwADIAQ'
             }
         ]
     },
 ]
 
 # Здесь должен быть id фотки с календарём (прокидываешь через бота фотку и пишешь id сюда
-CALENDAR_FILE_ID = 'https://www.typecalendar.com/wp-content/uploads/2020/02/June-2021-Calendar.jpg'
+CALENDAR_FILE_ID = 'AgACAgIAAxkBAAIB-GEXpFrXjxa20TVe9Tws9bTCZewxAAJytTEb_fu5SCK_83ZsS2ZIAQADAgADcwADIAQ'
 
 
 # Здесь у нас словарь с file_id текстовых файлов песен
